@@ -34,3 +34,7 @@ The recommended stack for the project is
 ## Contribution Guidelines
 * Read the [guidelines](./CONTRIBUTORS.md) before starting contributing or creating the project.
 * Follow the given [PR template](./PULL_REQUEST_TEMPLATE.md) to contribute to the project.
+
+## Gitter Community
+
+[Bake-a-Blog](https://gitter.im/iosdofficial/Bake-a-Blog-ISOC19)
